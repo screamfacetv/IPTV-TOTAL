@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 channelId="1967" , Telemundo
+#EXTINF:-1 channelId="1967" , Telemundo.
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 channelId="-1" , Miami TV
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
