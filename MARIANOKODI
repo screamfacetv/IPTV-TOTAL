@@ -1,0 +1,489 @@
+#EXTM3U
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , 4 seven
+http://freedom.duki.me/LIVE/H02/4seven.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , 5 Star MAX
+http://freedom.duki.me/LIVE/H02/5StarMaxUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , 5 Star
+http://freedom.duki.me/LIVE/H02/5star.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , 5 Usa
+http://freedom.duki.me/LIVE/H02/5usa.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , 9x
+http://freedom.duki.me/LIVE/H02/9xTashan.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ABC MIAMI
+http://freedom.duki.me/LIVE/H02/ABCMIASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ABC NY
+http://freedom.duki.me/LIVE/H02/ABCNY/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , A&E USA
+http://freedom.duki.me/LIVE/H02/AEEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , A&E
+http://freedom.duki.me/LIVE/H02/AELatinoamericaHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , AMC USA
+http://freedom.duki.me/LIVE/H02/AMCEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , AMC
+http://freedom.duki.me/LIVE/H02/AMCLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , AXN
+http://freedom.duki.me/LIVE/H02/AXNLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ACTION MAX USA
+http://freedom.duki.me/LIVE/H02/ActionMaxEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , AMERICAN HEROES USA
+http://freedom.duki.me/LIVE/H02/AmericanHeroesUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ANIMAL PLANET
+http://freedom.duki.me/LIVE/H02/AnimalPlanetLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ANIMAL PLANET USA
+http://freedom.duki.me/LIVE/H02/AnimalPlanetUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ANTENA LATINO
+http://freedom.duki.me/LIVE/H02/AntenaLatinaRDLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , AUDIENCE US
+http://freedom.duki.me/LIVE/H02/AudienceUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , AZ MUNDO
+http://freedom.duki.me/LIVE/H02/AzMundoLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , AZ CORAZON
+http://freedom.duki.me/LIVE/H02/AzcorazonLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , BBC AMERICA
+http://freedom.duki.me/LIVE/H02/BBCAmericaHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , BBC ENT.
+http://freedom.duki.me/LIVE/H02/BBCEntLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , BBC WORLD
+http://freedom.duki.me/LIVE/H02/BBCWorldNewsSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , BABY TV
+http://freedom.duki.me/LIVE/H02/BabyTVLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , BANDAMAX
+http://freedom.duki.me/LIVE/H02/BandamaxLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NEIN SPORTS
+http://freedom.duki.me/LIVE/H02/BeinSportsLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , BOMERANG
+http://freedom.duki.me/LIVE/H02/BoomerangLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , BOOMERANG US
+http://freedom.duki.me/LIVE/H02/BoomerangUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , BRAVO US
+http://freedom.duki.me/LIVE/H02/BravoEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CBS US
+http://freedom.duki.me/LIVE/H02/CBSNYUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , SBC SPORTS
+http://freedom.duki.me/LIVE/H02/CBSSportsNetworkUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CND
+http://freedom.duki.me/LIVE/H02/CDN2LA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CND 37
+http://freedom.duki.me/LIVE/H02/CDN37LA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CNN ESP
+http://freedom.duki.me/LIVE/H02/CNNLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CND US
+http://freedom.duki.me/LIVE/H02/CNNUSAHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CSN US
+http://freedom.duki.me/LIVE/H02/CSNBAUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CANAL 5
+http://freedom.duki.me/LIVE/H02/Canal5LA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CARACOL INT
+http://freedom.duki.me/LIVE/H02/CaracolIntSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CARTOON NETWORK
+http://freedom.duki.me/LIVE/H02/CartoonNetworkLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CASA CLUB
+http://freedom.duki.me/LIVE/H02/CasaClubLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CBEEBIES
+http://freedom.duki.me/LIVE/H02/CbeebiesLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CHILLERS
+http://freedom.duki.me/LIVE/H02/ChillerUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CINE CANAL
+http://freedom.duki.me/LIVE/H02/CineCanalLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CINE DINAMITA
+http://freedom.duki.me/LIVE/H02/CineDinamitaLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CINE LATINO
+http://freedom.duki.me/LIVE/H02/CineLatinoSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CINEMAX US
+http://freedom.duki.me/LIVE/H02/CinemaxEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CINEMAX
+http://freedom.duki.me/LIVE/H02/CinemaxLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CINEMAZ USA W
+http://freedom.duki.me/LIVE/H02/CinemaxWestUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , COMEDY CENTRAL US
+http://freedom.duki.me/LIVE/H02/ComedyCentralHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , COMEDY CENTRAL
+http://freedom.duki.me/LIVE/H02/ComedyCentralLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CONCERT CHANNEL
+http://freedom.duki.me/LIVE/H02/ConcertChannelSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , COOKING CHANNEL
+http://freedom.duki.me/LIVE/H02/CookingChannelUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , CRIMEN INV.
+http://freedom.duki.me/LIVE/H02/CrimeInvNetUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DIY
+http://freedom.duki.me/LIVE/H02/DIYNetworkHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DESTINATION AMERICA
+http://freedom.duki.me/LIVE/H02/DestinationAmericaUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DIGITAL 115
+http://freedom.duki.me/LIVE/H02/Digital15RDLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISCOVERY TURBO
+http://freedom.duki.me/LIVE/H02/DiscovTurbo.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISCOVERY CHANNEL
+http://freedom.duki.me/LIVE/H02/DiscoveryChLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISCOVERY CHANNEL USA
+http://freedom.duki.me/LIVE/H02/DiscoveryChannelUSAHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISCOVERY FAMILY
+http://freedom.duki.me/LIVE/H02/DiscoveryFamilyUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISCOVERY H & H
+http://freedom.duki.me/LIVE/H02/DiscoveryHomeHealthLAHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISCOVERY KIDS
+http://freedom.duki.me/LIVE/H02/DiscoveryKidsSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISCOVERY WORLD
+http://freedom.duki.me/LIVE/H02/DiscoveryWorldLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISCOVERY ESP.
+http://freedom.duki.me/LIVE/H02/DiscoveryenEspanolHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISNEY CHANNEL US
+http://freedom.duki.me/LIVE/H02/DisneyChannelEastHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISNEY CHANNEL
+http://freedom.duki.me/LIVE/H02/DisneyChannelNorteHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISNEY JR
+http://freedom.duki.me/LIVE/H02/DisneyJrLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISNEY JR US
+http://freedom.duki.me/LIVE/H02/DisneyJrUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISNEY XD
+http://freedom.duki.me/LIVE/H02/DisneyXDSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISNEY XD US
+http://freedom.duki.me/LIVE/H02/DisneyXDUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , DISTRITO COMEDIA
+http://freedom.duki.me/LIVE/H02/DistritoComediaLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ESPN 2
+http://freedom.duki.me/LIVE/H02/ESPN2LASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ESPN 3
+http://freedom.duki.me/LIVE/H02/ESPN3LASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ESPN
+http://freedom.duki.me/LIVE/H02/ESPNLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ESPN US
+http://freedom.duki.me/LIVE/H02/ESPNUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ESPN US W
+http://freedom.duki.me/LIVE/H02/ESPNUUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ESPN US NEW
+http://freedom.duki.me/LIVE/H02/ESPNewsUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , EDEN
+http://freedom.duki.me/LIVE/H02/Eden.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , E ENTERTAIMENT
+http://freedom.duki.me/LIVE/H02/EentertaimentSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , EFECKTO TV
+http://freedom.duki.me/LIVE/H02/EfektoTVLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , EL FINANCIERO
+http://freedom.duki.me/LIVE/H02/ElFinancieroBLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , EL GOURMET
+http://freedom.duki.me/LIVE/H02/ElgourmetLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ENCORE ACTION US
+http://freedom.duki.me/LIVE/H02/EncoreActionEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ENCORE EAST US
+http://freedom.duki.me/LIVE/H02/EncoreEastHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ENCORE WESTERN US
+http://freedom.duki.me/LIVE/H02/EncoreWesterns/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ESTRELLA TV
+http://freedom.duki.me/LIVE/H02/EstrellaTVLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , EURO CHANNEL
+http://freedom.duki.me/LIVE/H02/EurochannelLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , EUROPA EUROPA
+http://freedom.duki.me/LIVE/H02/EuropaEuropaLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , F1
+http://freedom.duki.me/LIVE/H02/F1LA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX 1
+http://freedom.duki.me/LIVE/H02/FOX1LASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX 1 OESTE
+http://freedom.duki.me/LIVE/H02/FOX1OesteLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX ACTION
+http://freedom.duki.me/LIVE/H02/FOXACTIONLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX ACTION OESTE
+http://freedom.duki.me/LIVE/H02/FOXActionOesteLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX CLASSICS
+http://freedom.duki.me/LIVE/H02/FOXClassicsLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX COMEDY
+http://freedom.duki.me/LIVE/H02/FOXComedyLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX FAMILY
+http://freedom.duki.me/LIVE/H02/FOXFamilyLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX HD
+http://freedom.duki.me/LIVE/H02/FOXHDLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX MIAS
+http://freedom.duki.me/LIVE/H02/FOXMIASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX MOVIES
+http://freedom.duki.me/LIVE/H02/FOXMoviesLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FS
+http://freedom.duki.me/LIVE/H02/FSNWestUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FX US
+http://freedom.duki.me/LIVE/H02/FXEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FX
+http://freedom.duki.me/LIVE/H02/FXLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FX US W
+http://freedom.duki.me/LIVE/H02/FXXUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FILM ARTS
+http://freedom.duki.me/LIVE/H02/FilmArtsLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FILM ZONE
+http://freedom.duki.me/LIVE/H02/FilmZoneLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOOD NETWORK
+http://freedom.duki.me/LIVE/H02/FoodNetworkEastHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX BUSSINES
+http://freedom.duki.me/LIVE/H02/FoxBusinessUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX CINEMA
+http://freedom.duki.me/LIVE/H02/FoxCinemaSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX LIFE
+http://freedom.duki.me/LIVE/H02/FoxLifeSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX NEWS
+http://freedom.duki.me/LIVE/H02/FoxNewsChannelHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX SPORTS 1
+http://freedom.duki.me/LIVE/H02/FoxSports1HD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX SPORTS 2
+http://freedom.duki.me/LIVE/H02/FoxSports2SD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX SPORTS 2 US
+http://freedom.duki.me/LIVE/H02/FoxSports2US/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX SPORTS 3
+http://freedom.duki.me/LIVE/H02/FoxSports3SD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX SPORTS ARIZONA
+http://freedom.duki.me/LIVE/H02/FoxSportsArizonaUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX SPORTS FLORIDA
+http://freedom.duki.me/LIVE/H02/FoxSportsFloridaUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX SPORTS
+http://freedom.duki.me/LIVE/H02/FoxSportsLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , FOX SPORTS USTX
+http://freedom.duki.me/LIVE/H02/FoxSportsSouthUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , GLITZ
+http://freedom.duki.me/LIVE/H02/GlitzLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , GOLDEN EDGE
+http://freedom.duki.me/LIVE/H02/GoldenEdgeLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , GOLDEN HD
+http://freedom.duki.me/LIVE/H02/GoldenHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , GOLDEN MP
+http://freedom.duki.me/LIVE/H02/GoldenMPLXLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , GOLDEN PREMIER
+http://freedom.duki.me/LIVE/H02/GoldenPremier1LA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , GOLDEN PREMIER 2
+http://freedom.duki.me/LIVE/H02/GoldenPremiere2LA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , GOLF CHANNEL
+http://freedom.duki.me/LIVE/H02/GolfChannelLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , GOLF CHANNEL US
+http://freedom.duki.me/LIVE/H02/GolfChannelUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , H2
+http://freedom.duki.me/LIVE/H02/H2LASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , H2 US
+http://freedom.duki.me/LIVE/H02/H2US/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO 2 W
+http://freedom.duki.me/LIVE/H02/HBO2EastHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO 2
+http://freedom.duki.me/LIVE/H02/HBO2SD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO 2 W US
+http://freedom.duki.me/LIVE/H02/HBO2WestUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO COMEDY US
+http://freedom.duki.me/LIVE/H02/HBOComedyEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO W US
+http://freedom.duki.me/LIVE/H02/HBOEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO FAMILY W US
+http://freedom.duki.me/LIVE/H02/HBOFamilyEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO FAMILY
+http://freedom.duki.me/LIVE/H02/HBOFamilyLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO
+http://freedom.duki.me/LIVE/H02/HBOLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO PLUS
+http://freedom.duki.me/LIVE/H02/HBOPlusLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO PLUS 2
+http://freedom.duki.me/LIVE/H02/HBOPus2LASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO SIGNATURE US
+http://freedom.duki.me/LIVE/H02/HBOSignatureEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO SIGNATURE
+http://freedom.duki.me/LIVE/H02/HBOSignatureLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO W US
+http://freedom.duki.me/LIVE/H02/HBOWestUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HBO ZONE US
+http://freedom.duki.me/LIVE/H02/HBOZoneUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HGT US
+http://freedom.duki.me/LIVE/H02/HGTVUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HLN US
+http://freedom.duki.me/LIVE/H02/HLNUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HTB
+http://freedom.duki.me/LIVE/H02/HTVSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HALL MARK US
+http://freedom.duki.me/LIVE/H02/HallmarkMovieChannelUS/
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HISTORY US
+http://freedom.duki.me/LIVE/H02/HistoryHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , HISTORY
+http://freedom.duki.me/LIVE/H02/HistoryLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , IDUS
+http://freedom.duki.me/LIVE/H02/IDUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , IFC
+http://freedom.duki.me/LIVE/H02/IFCHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , IONTV US
+http://freedom.duki.me/LIVE/H02/IONTVEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , I SAT
+http://freedom.duki.me/LIVE/H02/ISATLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , ID
+http://freedom.duki.me/LIVE/H02/InvDiscoverySD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , KMUSIC
+http://freedom.duki.me/LIVE/H02/KMusicLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , LAKERS
+http://freedom.duki.me/LIVE/H02/Lakers/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , LIFE TIME US
+http://freedom.duki.me/LIVE/H02/LifetimeEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , LIFE TIME
+http://freedom.duki.me/LIVE/H02/LifetimeLASD/
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , LIFE TIME MOVIES US
+http://freedom.duki.me/LIVE/H02/LifetimeMoviesUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MASNUS
+http://freedom.duki.me/LIVE/H02/MASNUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MATV US
+http://freedom.duki.me/LIVE/H02/MATVUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MAX
+http://freedom.duki.me/LIVE/H02/MAXLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MLB
+http://freedom.duki.me/LIVE/H02/MLBExtraIning/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MLB NETWORK
+http://freedom.duki.me/LIVE/H02/MLBNetworkHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MSGUS
+http://freedom.duki.me/LIVE/H02/MSGUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MSNBCUS
+http://freedom.duki.me/LIVE/H02/MSNBCUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MTV HITS
+http://freedom.duki.me/LIVE/H02/MTVHitsLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MTV
+http://freedom.duki.me/LIVE/H02/MTVLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MAX PRIME 2
+http://freedom.duki.me/LIVE/H02/MaxPrime2LASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MAX PRIME
+http://freedom.duki.me/LIVE/H02/MaxPrimeLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MAX UP
+http://freedom.duki.me/LIVE/H02/MaxUPSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , EMULTI PREMIER
+http://freedom.duki.me/LIVE/H02/MultiPremierLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MULTIMEDIOS
+http://freedom.duki.me/LIVE/H02/MultimediosLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , MUNDO FOX
+http://freedom.duki.me/LIVE/H02/MundoFoxSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NBA TV US
+http://freedom.duki.me/LIVE/H02/NBATVUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NBC MIAMI
+http://freedom.duki.me/LIVE/H02/NBCMIASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NBC NY
+http://freedom.duki.me/LIVE/H02/NBCNY/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NBC SPORT US
+http://freedom.duki.me/LIVE/H02/NBCSportNetworkUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NBC UNIVERSO US
+http://freedom.duki.me/LIVE/H02/NBCUniversoUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NESNUS
+http://freedom.duki.me/LIVE/H02/NESNUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NFL NETWORK
+http://freedom.duki.me/LIVE/H02/NFLNetworkUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NHL NETWORK
+http://freedom.duki.me/LIVE/H02/NHLNetworkHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NTN 24
+http://freedom.duki.me/LIVE/H02/NTN24LA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NATGEO
+http://freedom.duki.me/LIVE/H02/NatGeoLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NATGEO US
+http://freedom.duki.me/LIVE/H02/NatGeoUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NATGEO WILD
+http://freedom.duki.me/LIVE/H02/NatGeoWildLAHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NATGEO WILD US
+http://freedom.duki.me/LIVE/H02/NatGeoWildUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NEWS 12
+http://freedom.duki.me/LIVE/H02/News12Bronx.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NEWS 12 W
+http://freedom.duki.me/LIVE/H02/News12Brooklyn.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NEWS 12 CONNET
+http://freedom.duki.me/LIVE/H02/News12Connecticut.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NEWS 12 HUSTSON
+http://freedom.duki.me/LIVE/H02/News12HudsonValley.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NEWS 12 HUSTSON W
+http://freedom.duki.me/LIVE/H02/News12LongIsland.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NICK JR
+http://freedom.duki.me/LIVE/H02/NickJrLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NICK JR US
+http://freedom.duki.me/LIVE/H02/NickJrUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NICK US
+http://freedom.duki.me/LIVE/H02/NickelodeonEastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , NICK
+http://freedom.duki.me/LIVE/H02/NickelodeonLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , OVACION US
+http://freedom.duki.me/LIVE/H02/OvationUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , OXYGEN
+http://freedom.duki.me/LIVE/H02/OxygenSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , PALLADIAN US
+http://freedom.duki.me/LIVE/H02/PalladiaHDUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , PARAMOUNT CHANNEL
+http://freedom.duki.me/LIVE/H02/ParamountChannelLatinAmericaHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , PLANETA FUTBOL
+http://freedom.duki.me/LIVE/H02/PlanetaFutbolLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , RCNOVELAS
+http://freedom.duki.me/LIVE/H02/RCNnovelasLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , REALLY
+http://freedom.duki.me/LIVE/H02/Really.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , SKY SPORTS NEWS
+http://freedom.duki.me/LIVE/H02/SKYSPNews.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , SCIENCE US
+http://freedom.duki.me/LIVE/H02/ScienceUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , SHOW TIMES 2 US
+http://freedom.duki.me/LIVE/H02/Showtime2EastUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , SONY
+http://freedom.duki.me/LIVE/H02/SonyLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , STUDIO UNIVERSAL
+http://freedom.duki.me/LIVE/H02/StudioUniversalSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , SYFY
+http://freedom.duki.me/LIVE/H02/SyFyLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , SYFY US
+http://freedom.duki.me/LIVE/H02/SyFyUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TBS
+http://freedom.duki.me/LIVE/H02/TBSLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TCM
+http://freedom.duki.me/LIVE/H02/TCMSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TCM US
+http://freedom.duki.me/LIVE/H02/TCMUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TDN
+http://freedom.duki.me/LIVE/H02/TDNMXLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TLC
+http://freedom.duki.me/LIVE/H02/TLC.stream/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TLC CLASICO
+http://freedom.duki.me/LIVE/H02/TLCLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TNT
+http://freedom.duki.me/LIVE/H02/TNTAmericaLatinaHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TNT DRAMA US
+http://freedom.duki.me/LIVE/H02/TNTDramaUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TV GLOBO
+http://freedom.duki.me/LIVE/H02/TVGloboLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TV LAND
+http://freedom.duki.me/LIVE/H02/TVLand/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TELECENTRO
+http://freedom.duki.me/LIVE/H02/TeleCentroRDLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TELEMICRO
+http://freedom.duki.me/LIVE/H02/TelemicroLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , SPACE
+http://freedom.duki.me/LIVE/H02/SpaceLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TELEMUNDO ANGELES
+http://freedom.duki.me/LIVE/H02/TelemundoLosAngeles/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TELEMUNDO PR
+http://freedom.duki.me/LIVE/H02/TelemundoPR/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TELEMUNDO PUNTO2
+http://freedom.duki.me/LIVE/H02/TelemundoPunto2/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TELEMUNDO
+http://freedom.duki.me/LIVE/H02/TelemundoSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , THE WARNER CHANNEL
+http://freedom.duki.me/LIVE/H02/TheWeatherChannelHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TLNOVELAS
+http://freedom.duki.me/LIVE/H02/TlnovelasLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TOONCAST
+http://freedom.duki.me/LIVE/H02/TooncastSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TRU TV
+http://freedom.duki.me/LIVE/H02/TruTVSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , TRU TV US
+http://freedom.duki.me/LIVE/H02/TruTVUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , UFC
+http://freedom.duki.me/LIVE/H02/UFCNetworkLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , UFC US
+http://freedom.duki.me/LIVE/H02/USANetworkEastHD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , UNICABLE
+http://freedom.duki.me/LIVE/H02/UnicableLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , UNIVERSAL
+http://freedom.duki.me/LIVE/H02/UniversalLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , UNIVISION DEPORTES
+http://freedom.duki.me/LIVE/H02/UnivisionDeportesUS/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , UNIVISION ANGELES
+http://freedom.duki.me/LIVE/H02/UnivisionLosAngeles/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , UNIVISION PR
+http://freedom.duki.me/LIVE/H02/UnivisionPR/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , UNIVISION TDN
+http://freedom.duki.me/LIVE/H02/UnivisionTDNLA/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , VH1 CLASSIC
+http://freedom.duki.me/LIVE/H02/VH1ClassicLASD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , VH1 LATINO
+http://freedom.duki.me/LIVE/H02/VH1LatinoSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , WAPAR
+http://freedom.duki.me/LIVE/H02/WAPAPR/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , WETV
+http://freedom.duki.me/LIVE/H02/WETVSD/master.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://marianokodilatin.tk/mariano.jpg" , WARNER
+http://freedom.duki.me/LIVE/H02/WarnerLA/master.m3u8
