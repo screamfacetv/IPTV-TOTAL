@@ -1,0 +1,17 @@
+<channels>
+
+<channel>  
+	<info>DRAGON BALL</info>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <Date>2015</Date>
+	<name>DRAGON BALL</name> 
+	
+          <item>
+		  <info>DRAGON BALL</info>
+          <link>-</link>
+          <thumbnail></thumbnail>
+          <fanart></fanart>
+          <externallink></externallink>
+        </item>
+        </channels>
